@@ -1,0 +1,32 @@
+﻿# IDE / env
+.vscode/
+.idea/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Large artifacts
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.npz
+*.npy
+*.pkl
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.pb
+*.csv
+*.xlsx
+*.parquet
+*.tfrecord
+*.mp4
+*.avi
+*.jpg
+*.png
+*.bmp

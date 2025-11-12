@@ -1,0 +1,11 @@
+Training Accuracy: 0.9789
+Training Balanced Accuracy: 0.9789
+Training Classification Report:
+              precision    recall  f1-score   support
+
+      Benign       0.97      0.98      0.98      2801
+   Malignant       0.98      0.97      0.98      2800
+
+    accuracy                           0.98      5601
+   macro avg       0.98      0.98      0.98      5601
+weighted avg       0.98      0.98      0.98      5601

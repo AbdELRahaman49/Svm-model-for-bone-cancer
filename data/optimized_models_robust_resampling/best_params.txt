@@ -1,0 +1,1 @@
+{'pca__n_components': np.float64(0.9439498941564188), 'selectfrommodel__threshold': '2*median', 'smote__k_neighbors': 4, 'svc__C': np.float64(1.5696396388661147), 'svc__gamma': np.float64(0.06978281265126034)}
